@@ -1,4 +1,4 @@
-# RssDetector
+# RssDetector [![Build Status](https://travis-ci.org/yukihir0/rss_detector.png?branch=master)](https://travis-ci.org/yukihir0/rss_detector)
 
 'rss_detector' provides feature for feed detection from html document.
 

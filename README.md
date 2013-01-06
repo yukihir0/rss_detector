@@ -1,29 +1,29 @@
 # RssDetector
 
-TODO: Write a gem description
+'rss_detector' provides feature for feed detection from html document.
 
-## Installation
+## Install
 
-Add this line to your application's Gemfile:
+```
+gem install 'rss_detector'
+```
 
-    gem 'rss_detector'
+or
 
-And then execute:
+```
+gem 'rss_detector'
+```
 
-    $ bundle
+in your Gemfile.
 
-Or install it yourself as:
+## How to use
 
-    $ gem install rss_detector
+```
+feed = RSSDetector::detect(html)
+```
 
-## Usage
+For more information, please see [here](https://github.com/yukihir0/rss_detector/blob/master/sample/sample.rb)
 
-TODO: Write usage instructions here
+## License
 
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+Copyright &copy; 2013 yukihir0

@@ -1,6 +1,11 @@
-# RssDetector [![Build Status](https://travis-ci.org/yukihir0/rss_detector.png?branch=master)](https://travis-ci.org/yukihir0/rss_detector)
+# RSSDetector [![Build Status](https://travis-ci.org/yukihir0/rss_detector.png?branch=master)](https://travis-ci.org/yukihir0/rss_detector)
 
 'rss_detector' provides feature for feed detection from html document.
+
+## Requirements
+
+- ruby 1.9
+- [nokogiri](https://rubygems.org/gems/nokogiri)
 
 ## Install
 
@@ -22,7 +27,7 @@ in your Gemfile.
 feed = RSSDetector::detect(html)
 ```
 
-For more information, please see [here](https://github.com/yukihir0/rss_detector/blob/master/sample/sample.rb)
+For more information, please see [here](https://github.com/yukihir0/rss_detector/blob/master/sample/sample.rb).
 
 ## License
 

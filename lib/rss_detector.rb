@@ -1,3 +1,4 @@
+# coding: utf-8
 require "rss_detector/version"
 require 'nokogiri'
 

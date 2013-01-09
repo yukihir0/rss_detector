@@ -1,3 +1,3 @@
-module RssDetector
+class RssDetector
   VERSION = "0.0.2"
 end

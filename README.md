@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- ruby 1.9
+- ruby >= 1.9
 - [nokogiri](https://rubygems.org/gems/nokogiri)
 
 ## Install

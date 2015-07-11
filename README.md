@@ -1,4 +1,4 @@
-# RSSDetector [![Build Status](https://travis-ci.org/yukihir0/rss_detector.png?branch=master)](https://travis-ci.org/yukihir0/rss_detector)
+# RSSDetector [![Build Status](https://travis-ci.org/yukihir0/rss_detector.png?branch=master)](https://travis-ci.org/yukihir0/rss_detector) [![Coverage Status](https://coveralls.io/repos/yukihir0/rss_detector/badge.svg?branch=master&service=github)](https://coveralls.io/github/yukihir0/rss_detector?branch=master)
 
 'rss_detector' provides feature for feed detection from html document.
 
